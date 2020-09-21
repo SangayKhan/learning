@@ -1,0 +1,5 @@
+a = str(input(" What is your name ?\n "))
+b = str(input(" Where are you from ?\n "))
+c = str(input(" What are the challenges you face learning through Google Classroom ?\n "))
+d = str(input(" What is the interesting part from E-learning ?\n "))
+print(" My name is {}. I am from {}. Challenges I face are {}. \n Intersting part from E-learning is {} ".format(a, b, c, d))
